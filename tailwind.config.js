@@ -5,7 +5,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        Arial: ["Arial", "monospace"],
+        Consolas: ["Consolas", "monospace"],
       },
     },
   },
